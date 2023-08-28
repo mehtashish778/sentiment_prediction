@@ -30,9 +30,8 @@ This repository documents my participation in the Kaggle competition "Sentiment 
 ## Usage Instructions
 
 1. Clone this repository to your local machine.
-2. Install the required libraries listed in `requirements.txt` by executing `pip install -r requirements.txt`.
-3. Open and run `notebook.ipynb` in a Jupyter Notebook environment.
-4. Follow the step-by-step instructions within the notebook to replicate the analysis and results.
+2. Open and run `main.ipynb` in a Jupyter Notebook environment.
+3. Follow the step-by-step instructions within the notebook to replicate the analysis and results.
 
 ## Results and Conclusion
 

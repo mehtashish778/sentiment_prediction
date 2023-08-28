@@ -22,9 +22,7 @@ This repository documents my participation in the Kaggle competition "Sentiment 
 
 ## Repository Contents
 
-- **`notebook.ipynb`:** Jupyter Notebook containing the complete project code, including EDA, preprocessing, modeling, and evaluation.
-- **`data/`:** Directory housing the dataset used for the project.
-- **`images/`:** Directory containing images embedded in the Jupyter Notebook.
+- **`main.ipynb`:** Jupyter Notebook containing the complete project code, including EDA, preprocessing, modeling, and evaluation.
 - **`README.md`:** The current readme file, offering an overview of the project and its outcomes.
 
 ## Usage Instructions
